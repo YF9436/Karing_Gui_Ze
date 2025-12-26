@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "rules": [
+    "DOMAIN-SUFFIX,digiwincloud.com.cn"
+  ]
+}
